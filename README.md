@@ -1,156 +1,141 @@
 <!--
-  DESIGN 2 — "AWS Orange"
-  Palette: #232F3E (AWS navy) · #FF9900 (AWS orange) · #0D1117 (GitHub dark)
+  DESIGN 3 — "Terminal / Pipeline"
+  Palette: #0D1117 (bg) · #00FF9C (terminal green) · #58A6FF (blue) · #FF9900 (AWS accent)
   Replace: YOUR_LINKEDIN, your.email@example.com, https://your-portfolio.com, project placeholders
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:232F3E,100:FF9900&height=240&section=header&text=Sambit%20Kumar%20Choudhuri&fontSize=40&fontColor=FFFFFF&fontAlignY=36&desc=AWS%20%E2%98%81%EF%B8%8F%20DevOps%20%E2%9A%99%EF%B8%8F%20Automation&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="AWS DevOps banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:0D1117,100:00FF9C&height=220&section=header&text=%3E_%20sambit-8490&fontSize=48&fontColor=00FF9C&fontAlignY=40&desc=AWS%20DevOps%20%7C%20Cloud%20%7C%20Automation&descSize=20&descColor=C9D1D9&descAlignY=62" width="100%" alt="Terminal banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=FF9900&center=true&vCenter=true&width=720&lines=Aspiring+AWS+DevOps+Engineer;CI%2FCD+%7C+Docker+%7C+Kubernetes+%7C+Terraform;Automate.+Deploy.+Monitor.+Repeat." alt="Typing animation" />
-
-<br/>
-
-![Location](https://img.shields.io/badge/📍_Kolkata,_India-232F3E?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Experience](https://img.shields.io/badge/3_Years-Experience-FF9900?style=for-the-badge)
-![Open](https://img.shields.io/badge/Open_to-DevOps_Roles-2EA043?style=for-the-badge)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=760&lines=%24+whoami+%E2%86%92+Sambit+Kumar+Choudhuri;%24+role+%E2%86%92+Aspiring+AWS+DevOps+Engineer;%24+terraform+apply+--auto-approve;%24+kubectl+get+pods+--all-namespaces;%24+echo+%22Always+learning.%22" alt="Terminal typing" />
 
 </div>
 
 <br/>
 
-## ☁️ &nbsp;Hello, I'm Sambit
+## `~/about`
 
-I'm an **aspiring AWS DevOps Engineer** with **3 years of experience** in AWS and DevOps-related work. I focus on **automation, repeatable infrastructure, and reliable delivery pipelines**, and I keep learning by building and documenting real projects.
+```yaml
+name: Sambit Kumar Choudhuri
+role: Aspiring AWS DevOps Engineer
+location: Kolkata, India
+experience: 3 years (AWS / DevOps-related)
+focus:
+  - CI/CD pipelines
+  - Infrastructure as Code
+  - Containers & orchestration
+  - Monitoring & observability
+  - Linux & automation
+learning: [Kubernetes, Terraform, AWS architecture, GitOps]
+goal: Join a team as an AWS DevOps / Cloud Engineer
+status: open_to_opportunities
+```
 
-**🎯 Goal:** join a team as an AWS DevOps / Cloud Engineer and grow towards cloud architecture and SRE.
+I like turning manual work into **version-controlled, repeatable automation**, and I treat every project as a chance to learn something new.
 
 <br/>
 
-## 🧭 &nbsp;What I Work With
+## `~/skills`
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="33%"><h3>☁️ Cloud</h3>AWS · Azure · GCP</td>
-    <td align="center" width="33%"><h3>📦 Containers</h3>Docker · Kubernetes</td>
-    <td align="center" width="33%"><h3>🔄 CI/CD</h3>Jenkins · GitHub Actions · GitLab CI</td>
-  </tr>
-  <tr>
-    <td align="center"><h3>🏗️ IaC</h3>Terraform · Ansible</td>
-    <td align="center"><h3>📊 Monitoring</h3>Prometheus · Grafana</td>
-    <td align="center"><h3>🐧 Systems</h3>Linux · Ubuntu</td>
-  </tr>
-  <tr>
-    <td align="center"><h3>📝 Scripting</h3>Bash · Python</td>
-    <td align="center"><h3>🌿 Version Control</h3>Git · GitHub</td>
-    <td align="center"><h3>🔐 Fundamentals</h3>Networking · Security basics</td>
-  </tr>
-</table>
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux,ubuntu,docker,kubernetes,jenkins,githubactions,gitlab,terraform,ansible,prometheus,grafana,git,bash,python&perline=9&theme=dark" alt="Tech icons" />
+| Category | Stack |
+| :-- | :-- |
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) |
+| **Containers** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
+| **CI/CD** | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white) |
+| **IaC** | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) |
+| **Monitoring** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) |
+| **Systems & Scripting** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| **Fundamentals** | Networking · Security basics (IAM, least privilege, secrets) |
 
 </div>
 
 <br/>
 
-## 🚀 &nbsp;Featured Projects
+## `~/workflow`
 
-> _Replace with your real projects. Delete any card you don't need._
+How I think about delivering software:
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-#### 🟠 Project Name 1
-_Short description: what it does, why it matters._<br/>
-**Stack:** `AWS` `Terraform` `GitHub Actions`<br/>
-**Result:** _real, measurable outcome_<br/>
-[![Repo](https://img.shields.io/badge/Repository-FF9900?style=flat-square&logo=github&logoColor=232F3E)](https://github.com/sambit-8490/project-1)
-
-</td>
-    <td width="50%" valign="top">
-
-#### 🟠 Project Name 2
-_Short description: what it does, why it matters._<br/>
-**Stack:** `Docker` `Kubernetes` `Prometheus`<br/>
-**Result:** _real, measurable outcome_<br/>
-[![Repo](https://img.shields.io/badge/Repository-FF9900?style=flat-square&logo=github&logoColor=232F3E)](https://github.com/sambit-8490/project-2)
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-#### 🟠 Project Name 3
-_Short description: what it does, why it matters._<br/>
-**Stack:** `Ansible` `Linux` `Bash`<br/>
-**Result:** _real, measurable outcome_<br/>
-[![Repo](https://img.shields.io/badge/Repository-FF9900?style=flat-square&logo=github&logoColor=232F3E)](https://github.com/sambit-8490/project-3)
-
-</td>
-    <td width="50%" valign="top">
-
-#### 🟠 Project Name 4
-_Short description: what it does, why it matters._<br/>
-**Stack:** `Jenkins` `Docker` `Python`<br/>
-**Result:** _real, measurable outcome_<br/>
-[![Repo](https://img.shields.io/badge/Repository-FF9900?style=flat-square&logo=github&logoColor=232F3E)](https://github.com/sambit-8490/project-4)
-
-</td>
-  </tr>
-</table>
+```mermaid
+flowchart LR
+    A[Code<br/>Git / GitHub] --> B[Build & Test<br/>CI pipeline]
+    B --> C[Package<br/>Docker image]
+    C --> D[Provision<br/>Terraform / Ansible]
+    D --> E[Deploy<br/>AWS / Kubernetes]
+    E --> F[Monitor<br/>Prometheus / Grafana]
+    F -.feedback.-> A
+```
 
 <br/>
 
-## 📊 &nbsp;GitHub Stats
+## `~/projects`
+
+> _Replace with your real projects._
+
+| # | Project | Description | Stack | Repo |
+| :-: | :-- | :-- | :-- | :-: |
+| 01 | **Project Name 1** | _What it does and the problem it solves_ | `AWS` `Terraform` | [🔗](https://github.com/sambit-8490/project-1) |
+| 02 | **Project Name 2** | _What it does and the problem it solves_ | `Docker` `Kubernetes` | [🔗](https://github.com/sambit-8490/project-2) |
+| 03 | **Project Name 3** | _What it does and the problem it solves_ | `Jenkins` `GitHub Actions` | [🔗](https://github.com/sambit-8490/project-3) |
+| 04 | **Project Name 4** | _What it does and the problem it solves_ | `Ansible` `Bash` | [🔗](https://github.com/sambit-8490/project-4) |
+
+**Key achievements (add real ones):**
+- _Achievement 1, e.g. reduced deployment time by X%_
+- _Achievement 2_
+
+<br/>
+
+## `~/stats`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sambit-8490&show_icons=true&hide_border=true&bg_color=232F3E&title_color=FF9900&icon_color=FF9900&text_color=FFFFFF&count_private=true" alt="Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambit-8490&layout=compact&hide_border=true&bg_color=232F3E&title_color=FF9900&text_color=FFFFFF" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sambit-8490&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9&count_private=true" alt="Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambit-8490&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=sambit-8490&hide_border=true&background=232F3E&ring=FF9900&fire=FF9900&currStreakLabel=FF9900&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=CCCCCC" alt="Streak" />
+<img src="https://streak-stats.demolab.com?user=sambit-8490&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" alt="Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sambit-8490&bg_color=232F3E&color=FF9900&line=FF9900&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sambit-8490&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity graph" />
 
 </div>
 
 <br/>
 
-## 🌱 &nbsp;Currently Learning
+## `~/learning`
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-232F3E?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
-![Terraform](https://img.shields.io/badge/Terraform-232F3E?style=for-the-badge&logo=terraform&logoColor=7B42BC)
-![AWS Architecture](https://img.shields.io/badge/AWS_Architecture-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Automation](https://img.shields.io/badge/Automation_%26_GitOps-232F3E?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+```bash
+$ cat learning.txt
+[ ] Kubernetes   → deployments, services, ingress, Helm
+[ ] Terraform    → modules, remote state, reusable patterns
+[ ] AWS          → architecture, high availability, IAM best practices
+[ ] Automation   → GitOps, pipeline design, observability
+```
 
 <br/>
 
-## 📫 &nbsp;Let's Connect
+## `~/contact`
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-232F3E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sambit-8490)
-[![Email](https://img.shields.io/badge/Email-FF9900?style=for-the-badge&logo=gmail&logoColor=232F3E)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-232F3E?style=for-the-badge&logo=googlechrome&logoColor=FF9900)](https://your-portfolio.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sambit-8490)
+[![Email](https://img.shields.io/badge/Email-00FF9C?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00FF9C)](https://your-portfolio.com)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=sambit-8490&label=Profile%20Views&color=FF9900&labelColor=232F3E&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=sambit-8490&label=Visitors&color=00FF9C&labelColor=0D1117&style=for-the-badge" alt="Visitors" />
 
 <br/><br/>
 
-_"Automate the boring stuff, so you can focus on what matters."_
+```text
+"Automate the boring stuff, so you can focus on what matters."
+```
 
-**Thanks for stopping by. Let's build reliable AWS systems together. ☁️**
+**Thanks for visiting. Let's ship reliable systems together. 🚀**
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:FF9900,100:232F3E&height=100&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:0D1117&height=80&section=footer" width="100%" alt="Footer" />
 
 </div>
